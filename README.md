@@ -38,6 +38,7 @@ Solution to Leetcode June Challenge
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
@@ -48,10 +49,12 @@ Solution to Leetcode June Challenge
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
@@ -79,5 +82,10 @@ Solution to Leetcode June Challenge
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0675-cut-off-trees-for-golf-event) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
