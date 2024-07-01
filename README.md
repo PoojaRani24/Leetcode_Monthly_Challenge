@@ -38,6 +38,7 @@ Solution to Leetcode June Challenge
 ## Array
 |  |
 | ------- |
+| [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
 ## Math
 |  |
@@ -50,13 +51,23 @@ Solution to Leetcode June Challenge
 ## Breadth-First Search
 |  |
 | ------- |
+| [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
 ## Graph
 |  |
 | ------- |
+| [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
 ## Geometry
 |  |
 | ------- |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
+## Hash Table
+|  |
+| ------- |
+| [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
+## Sorting
+|  |
+| ------- |
+| [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 <!---LeetCode Topics End-->
