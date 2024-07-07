@@ -16,7 +16,7 @@ public:
         return dp[n];
     }
 
-    bool wordBreak(string s, vector<string>& wordDict) {
+    bool wordBreakBetter(string s, vector<string>& wordDict) {
         int n = s.size();
         unordered_set<string>st(wordDict.begin(), wordDict.end());
         vector<int>dp(n,0);
@@ -30,6 +30,47 @@ public:
                         dp[i]=1;
                         break;
                     }
+                }
+            }
+        }
+        return dp[n-1];
+    }
+    
+    struct TrieNode{
+        bool isEnd;
+        unordered_map<char,TrieNode*>children;
+        TrieNode(){
+            isEnd=false;
+        }
+    };
+
+    bool wordBreak(string s, vector<string>& wordDict) {
+        TrieNode* root=new TrieNode();
+        int m=wordDict.size();
+        int n=s.size();
+        TrieNode* curr;
+        // Create trie
+        for(auto word:wordDict){
+            curr=root;
+            for(auto ch:word){
+                if(curr->children.find(ch)==curr->children.end()){
+                    curr->children[ch]=new TrieNode();
+                }
+                curr=curr->children[ch];
+            }
+            curr->isEnd=true;
+        }
+
+        vector<int>dp(n,0);
+        for(int i=0;i<n;i++){
+            if(i==0 || dp[i-1]==1){
+                curr=root;
+                for(int j=i;j<n;j++){
+                    if(curr->children.find(s[j])==curr->children.end())
+                        break;
+                    curr=curr->children[s[j]];
+                    if(curr->isEnd)
+                        dp[j]=true;
                 }
             }
         }
