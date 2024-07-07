@@ -38,6 +38,7 @@ Solution to Leetcode June Challenge
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0354-russian-doll-envelopes) |
@@ -77,6 +78,7 @@ Solution to Leetcode June Challenge
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Sorting
 |  |
@@ -114,6 +116,7 @@ Solution to Leetcode June Challenge
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0368-largest-divisible-subset) |
@@ -131,4 +134,16 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0673-number-of-longest-increasing-subsequence) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
