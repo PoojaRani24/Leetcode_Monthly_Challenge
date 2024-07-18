@@ -1,41 +1,50 @@
 class Solution {
 public:
+    struct Compare{
+        bool operator()(pair<int,string>&a, pair<int,string>&b){
+            if(a.first==b.first)
+                return a.second>b.second;
+            return a.first>b.first;
+        }
+    };
+    
     vector<string> watchedVideosByFriends(vector<vector<string>>& watchedVideos, vector<vector<int>>& friends, int id, int level) {
-        int n=friends.size();
+        int n= watchedVideos.size();
+        if(n==0)
+            return {};
         queue<int>q;
-        long lev=0;
-        vector<int>vis(n);
+        int lev=0;
+        vector<int>vis(n,0);
+        unordered_map<string,int>m;
         q.push(id);
-        vis[id]=1;
-        while(!q.empty() && lev!=level){
+        vis[id]=0;
+        while(!q.empty()){
             int size=q.size();
             while(size--){
-                int friendInd=q.front();
+                int friendId=q.front();
                 q.pop();
-                for(int i=0;i<friends[friendInd].size();i++){
-                    if(!vis[friends[friendInd][i]]){
-                        vis[friends[friendInd][i]]=1;
-                        q.push(friends[friendInd][i]);
+                if(lev!=level){
+                    vis[friendId]=1;
+                    for(auto i:friends[friendId]){
+                        if(!vis[i]){
+                            q.push(i);
+                            vis[i]=1;
+                        }
                     }
+                }
+                else{
+                    for(auto vid:watchedVideos[friendId])m[vid]++;
                 }
             }
             lev++;
         }
 
-        unordered_map<string,int>m;
-        while(!q.empty()){
-            int friendInd=q.front();
-            q.pop();
-            for(int i=0;i<watchedVideos[friendInd].size();i++){
-                m[watchedVideos[friendInd][i]]++;
-            }
-        }
-
-        vector<pair<int,string>>movies;
         vector<string>ans;
-        for(auto i:m)movies.push_back({i.second,i.first});
-        sort(movies.begin(),movies.end());
-        for(auto i:movies)ans.push_back(i.second);
+        vector<pair<int,string>>v;
+        for(auto it=m.begin();it!=m.end();it++)
+            v.push_back({it->second,it->first});
+        sort(v.begin(),v.end());
+        for(auto it:v)ans.push_back(it.second);
         return ans;
     }
 };
