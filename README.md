@@ -157,4 +157,12 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0865-robot-room-cleaner](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0865-robot-room-cleaner) |
+## Interactive
+|  |
+| ------- |
+| [0865-robot-room-cleaner](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0865-robot-room-cleaner) |
 <!---LeetCode Topics End-->
