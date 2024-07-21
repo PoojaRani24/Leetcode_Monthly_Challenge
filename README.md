@@ -60,6 +60,7 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
+| [0310-minimum-height-trees](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0332-reconstruct-itinerary) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -68,6 +69,7 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
+| [0310-minimum-height-trees](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -75,6 +77,7 @@ Solution to Leetcode June Challenge
 ## Graph
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0332-reconstruct-itinerary) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -167,6 +170,7 @@ Solution to Leetcode June Challenge
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Backtracking
 |  |
