@@ -65,6 +65,7 @@ Solution to Leetcode June Challenge
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0332-reconstruct-itinerary) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1665-diameter-of-n-ary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1665-diameter-of-n-ary-tree) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
@@ -194,6 +195,7 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1665-diameter-of-n-ary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1665-diameter-of-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |
