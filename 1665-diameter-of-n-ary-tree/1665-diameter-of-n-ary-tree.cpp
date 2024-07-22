@@ -32,7 +32,6 @@ public:
         long maxH1=0, maxH2=0;
         for(int i=0;i<root->children.size();i++){
             int height = maxHeight(root->children[i]);
-            cout<<height<<" "<<root->children[i]->val<<endl;
             if(height>maxH1){
                 maxH2=maxH1;
                 maxH1=height;
@@ -40,7 +39,6 @@ public:
             else if(height>maxH2)
                 maxH2=height;
         }
-        cout<<root->val<<" "<<maxH1<<" "<<maxH2<<endl;
         di=max(di, maxH1+maxH2);
         return 1+max(maxH1,maxH2);
     }
