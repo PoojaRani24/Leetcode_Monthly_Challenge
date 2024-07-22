@@ -59,6 +59,7 @@ Solution to Leetcode June Challenge
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -68,6 +69,7 @@ Solution to Leetcode June Challenge
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -188,4 +190,12 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0621-task-scheduler) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
