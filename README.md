@@ -49,6 +49,7 @@ Solution to Leetcode June Challenge
 | [0646-maximum-length-of-pair-chain](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0883-car-fleet](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0883-car-fleet) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
 ## Math
@@ -111,6 +112,7 @@ Solution to Leetcode June Challenge
 | [0368-largest-divisible-subset](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0368-largest-divisible-subset) |
 | [0621-task-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [0883-car-fleet](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0883-car-fleet) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Heap (Priority Queue)
 |  |
@@ -137,6 +139,7 @@ Solution to Leetcode June Challenge
 ## Stack
 |  |
 | ------- |
+| [0883-car-fleet](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0883-car-fleet) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Binary Search
 |  |
@@ -227,4 +230,8 @@ Solution to Leetcode June Challenge
 | ------- |
 | [0744-network-delay-time](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0883-car-fleet](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0883-car-fleet) |
 <!---LeetCode Topics End-->
