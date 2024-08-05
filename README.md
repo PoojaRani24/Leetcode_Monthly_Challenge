@@ -183,6 +183,7 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0715-range-module](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0715-range-module) |
 ## String
 |  |
 | ------- |
@@ -235,6 +236,7 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0346-moving-average-from-data-stream) |
+| [0715-range-module](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0715-range-module) |
 ## Queue
 |  |
 | ------- |
@@ -252,4 +254,8 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0883-car-fleet](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0883-car-fleet) |
+## Ordered Set
+|  |
+| ------- |
+| [0715-range-module](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0715-range-module) |
 <!---LeetCode Topics End-->
