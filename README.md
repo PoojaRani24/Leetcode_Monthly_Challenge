@@ -70,6 +70,7 @@ Solution to Leetcode June Challenge
 | [0310-minimum-height-trees](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0332-reconstruct-itinerary) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0744-network-delay-time](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -82,6 +83,7 @@ Solution to Leetcode June Challenge
 | [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0744-network-delay-time](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -218,11 +220,13 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1665-diameter-of-n-ary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1665-diameter-of-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Design
 |  |
 | ------- |
