@@ -52,6 +52,7 @@ Solution to Leetcode June Challenge
 | [0646-maximum-length-of-pair-chain](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0753-open-the-lock](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0753-open-the-lock) |
 | [0883-car-fleet](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0883-car-fleet) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -86,6 +87,7 @@ Solution to Leetcode June Challenge
 | [0637-average-of-levels-in-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0744-network-delay-time](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0744-network-delay-time) |
+| [0753-open-the-lock](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0753-open-the-lock) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
@@ -109,6 +111,7 @@ Solution to Leetcode June Challenge
 | ------- |
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [0621-task-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0621-task-scheduler) |
+| [0753-open-the-lock](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0753-open-the-lock) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Sorting
@@ -184,6 +187,7 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
+| [0753-open-the-lock](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0753-open-the-lock) |
 ## Trie
 |  |
 | ------- |
