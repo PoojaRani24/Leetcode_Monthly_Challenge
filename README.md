@@ -79,6 +79,7 @@ Solution to Leetcode June Challenge
 | [0744-network-delay-time](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1300-critical-connections-in-a-network](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1300-critical-connections-in-a-network) |
 | [1665-diameter-of-n-ary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1665-diameter-of-n-ary-tree) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
 ## Breadth-First Search
@@ -105,6 +106,7 @@ Solution to Leetcode June Challenge
 | [0744-network-delay-time](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1300-critical-connections-in-a-network](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1300-critical-connections-in-a-network) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
 ## Geometry
@@ -274,4 +276,8 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [1983-maximum-population-year](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1983-maximum-population-year) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
