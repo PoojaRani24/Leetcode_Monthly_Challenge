@@ -10,13 +10,12 @@ public:
                 enter.push({arrival[i],i});
         }
 
-        int time=0, s=0;
+        int time=0, s=2;
         vector<int>ans(n,0);
         while(!enter.empty() || !exit.empty()){
             if((enter.empty() || enter.front().first>time) && (exit.empty() || exit.front().first>time)){
                 time = min(enter.empty() ? INT_MAX : enter.front().first, exit.empty() ? INT_MAX : exit.front().first);
                 s=0;
-                // time++;
             }
             else if(!enter.empty() && enter.front().first<=time && (exit.empty() || exit.front().first>time)){
                 ans[enter.front().second]=time;
@@ -34,12 +33,10 @@ public:
                 if(s==1){
                     ans[enter.front().second]=time;
                     enter.pop();
-                    s=1;
                 }
                 else{
                     ans[exit.front().second]=time;
                     exit.pop();
-                    s=2;
                 }
                 time++;
             }
