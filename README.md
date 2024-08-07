@@ -58,6 +58,7 @@ Solution to Leetcode June Challenge
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
+| [2617-time-taken-to-cross-the-door](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2617-time-taken-to-cross-the-door) |
 ## Math
 |  |
 | ------- |
@@ -245,6 +246,7 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0346-moving-average-from-data-stream) |
+| [2617-time-taken-to-cross-the-door](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2617-time-taken-to-cross-the-door) |
 ## Data Stream
 |  |
 | ------- |
@@ -262,4 +264,8 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0715-range-module](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0715-range-module) |
+## Simulation
+|  |
+| ------- |
+| [2617-time-taken-to-cross-the-door](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2617-time-taken-to-cross-the-door) |
 <!---LeetCode Topics End-->
