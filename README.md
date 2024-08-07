@@ -48,6 +48,7 @@ Solution to Leetcode June Challenge
 | [0354-russian-doll-envelopes](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0416-partition-equal-subset-sum) |
+| [0529-minesweeper](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0529-minesweeper) |
 | [0621-task-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -71,6 +72,7 @@ Solution to Leetcode June Challenge
 | [0310-minimum-height-trees](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0332-reconstruct-itinerary) |
+| [0529-minesweeper](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0529-minesweeper) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0744-network-delay-time](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -84,6 +86,7 @@ Solution to Leetcode June Challenge
 | [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0529-minesweeper](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0529-minesweeper) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0744-network-delay-time](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0744-network-delay-time) |
@@ -137,6 +140,7 @@ Solution to Leetcode June Challenge
 | ------- |
 | [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0529-minesweeper](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0529-minesweeper) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0675-cut-off-trees-for-golf-event) |
 ## Union Find
 |  |
