@@ -57,6 +57,7 @@ Solution to Leetcode June Challenge
 | [0883-car-fleet](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0883-car-fleet) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1983-maximum-population-year](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1983-maximum-population-year) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
 | [2617-time-taken-to-cross-the-door](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2617-time-taken-to-cross-the-door) |
 ## Math
@@ -226,6 +227,7 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0621-task-scheduler) |
+| [1983-maximum-population-year](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1983-maximum-population-year) |
 ## Tree
 |  |
 | ------- |
@@ -268,4 +270,8 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [2617-time-taken-to-cross-the-door](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2617-time-taken-to-cross-the-door) |
+## Prefix Sum
+|  |
+| ------- |
+| [1983-maximum-population-year](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1983-maximum-population-year) |
 <!---LeetCode Topics End-->
