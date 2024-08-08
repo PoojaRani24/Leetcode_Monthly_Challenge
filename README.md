@@ -59,6 +59,7 @@ Solution to Leetcode June Challenge
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1983-maximum-population-year](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1983-maximum-population-year) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
+| [2522-median-of-a-row-wise-sorted-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2617-time-taken-to-cross-the-door](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2617-time-taken-to-cross-the-door) |
 | [3034-points-that-intersect-with-cars](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/3034-points-that-intersect-with-cars) |
 ## Math
@@ -148,6 +149,7 @@ Solution to Leetcode June Challenge
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0529-minesweeper](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0529-minesweeper) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0675-cut-off-trees-for-golf-event) |
+| [2522-median-of-a-row-wise-sorted-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 ## Union Find
 |  |
 | ------- |
@@ -167,6 +169,7 @@ Solution to Leetcode June Challenge
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0354-russian-doll-envelopes) |
+| [2522-median-of-a-row-wise-sorted-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
