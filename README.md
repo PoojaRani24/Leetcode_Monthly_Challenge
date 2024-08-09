@@ -60,6 +60,7 @@ Solution to Leetcode June Challenge
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1983-maximum-population-year](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1983-maximum-population-year) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
@@ -126,6 +127,7 @@ Solution to Leetcode June Challenge
 | [0753-open-the-lock](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0753-open-the-lock) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [3034-points-that-intersect-with-cars](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/3034-points-that-intersect-with-cars) |
 ## Sorting
 |  |
@@ -293,6 +295,7 @@ Solution to Leetcode June Challenge
 | [0253-meeting-rooms-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0253-meeting-rooms-ii) |
 | [0731-my-calendar-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0731-my-calendar-ii) |
 | [1983-maximum-population-year](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1983-maximum-population-year) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2385-count-positions-on-street-with-required-brightness) |
 | [3034-points-that-intersect-with-cars](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/3034-points-that-intersect-with-cars) |
 ## Biconnected Component
