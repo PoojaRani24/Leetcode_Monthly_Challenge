@@ -1,7 +1,7 @@
 class Solution {
 public:
     int kthSmallest(vector<vector<int>>& matrix, int k) {
-        return kthSmallestMaxHeap(matrix,k);
+        return kthSmallestBinarySearch(matrix,k);
     }
 
     // TC: x=min(r,k) O(x+klogx)
@@ -25,6 +25,8 @@ public:
         return popedElement;
     }
 
+    // TC: O(n^2*logk)
+    // SC: O(k)
     int kthSmallestMaxHeap(vector<vector<int>>& matrix, int k) {
         int r=matrix.size();
         int c=matrix[0].size();
@@ -40,5 +42,37 @@ public:
             }
         }
         return pq.top();
+    }
+
+    int kthSmallestBinarySearch(vector<vector<int>>& matrix, int k) {
+        int r=matrix.size();
+        int c=matrix[0].size();
+        int low=matrix[0][0], high=matrix[r-1][c-1];
+        while(low<high){
+            int mid=low+(high-low)/2;
+            int cnt=findNumberLessThanOrEqualToTarget(matrix,mid);
+            if(cnt<k)
+                low=mid+1;
+            else 
+                high=mid;
+        }
+        return low;
+
+    }
+
+    int findNumberLessThanOrEqualToTarget(vector<vector<int>>& matrix, int target){
+        int cnt=0;
+        int r=matrix.size();
+        int c=matrix[0].size();
+        int i=r-1,j=0;
+        while(i>=0 && j<c){
+            if(matrix[i][j]>target)
+                i--;
+            else {
+                cnt+=i+1;
+                j++;
+            }
+        }
+        return cnt;
     }
 };
