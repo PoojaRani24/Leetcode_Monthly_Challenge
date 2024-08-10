@@ -44,6 +44,8 @@ public:
         return pq.top();
     }
 
+    // TC: x=max-min, O(logx * (r+c))
+    // SC: O(1)
     int kthSmallestBinarySearch(vector<vector<int>>& matrix, int k) {
         int r=matrix.size();
         int c=matrix[0].size();
@@ -60,6 +62,8 @@ public:
 
     }
 
+    // TC : O(r+c)
+    //SC : O(1)
     int findNumberLessThanOrEqualToTarget(vector<vector<int>>& matrix, int target){
         int cnt=0;
         int r=matrix.size();
