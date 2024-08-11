@@ -4,7 +4,9 @@ public:
         // vector<vector<int>>dp(2501,vector<int>(2501,-1));
         // return lengthOfLISUtil1(nums,0,-1,dp);
 
-        return lengthOfLIS2(nums);
+        // return lengthOfLIS2(nums);
+
+        return lengthOfLIS3(nums);
     }
 
     int lengthOfLISUtil1(vector<int>& nums,int curInd, int prevInd, vector<vector<int>>&dp){
@@ -32,5 +34,18 @@ public:
             ans=max(ans,dp[i]);
         }
         return ans;
+    }
+
+    int lengthOfLIS3(vector<int>& nums) {
+        vector<int>dp;
+        for(int i=0;i<nums.size();i++){
+            if(dp.size()==0 || nums[i]>dp[dp.size()-1])
+                dp.push_back(nums[i]);
+            else{
+                int ind = lower_bound(dp.begin(),dp.end(),nums[i])-dp.begin();
+                dp[ind]=nums[i];
+            }
+        }
+        return dp.size();
     }
 };
