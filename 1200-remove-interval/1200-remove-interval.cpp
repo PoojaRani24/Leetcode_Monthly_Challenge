@@ -10,16 +10,14 @@ public:
         while(i<n){
             if(intervals[i][1]<toBeRemoved[0] || intervals[i][0]>toBeRemoved[1]){
                 ans.push_back(intervals[i]);
-                i++;
             }
             else{
                 if(intervals[i][0]<toBeRemoved[0])
                     ans.push_back({intervals[i][0],toBeRemoved[0]});
                 if(intervals[i][1]>toBeRemoved[1])
                     ans.push_back({toBeRemoved[1],intervals[i][1]});
-                // removed=true;
-                i++;
             }
+            i++;
         }
         return ans;
     }
