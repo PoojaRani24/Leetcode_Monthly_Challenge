@@ -8,6 +8,9 @@ public:
     }
 
     vector<int> minAvailableDuration(vector<vector<int>>& slots1, vector<vector<int>>& slots2, int duration) {
+        std::ios::sync_with_stdio(false);
+        std::cin.tie(nullptr);
+        std::cout.tie(nullptr);
         map<int,int>m;
         preprocessAvailability(slots1,m);
         preprocessAvailability(slots2,m);
