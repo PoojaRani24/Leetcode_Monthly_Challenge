@@ -1,7 +1,9 @@
 class Solution {
 public:
     vector<vector<int>> removeInterval(vector<vector<int>>& intervals, vector<int>& toBeRemoved) {
-        // bool removed=false;
+        std::ios::sync_with_stdio(false);
+        std::cin.tie(nullptr);
+        std::cout.tie(nullptr);
         int n=intervals.size();
         if(n==0)
             return {{}};
