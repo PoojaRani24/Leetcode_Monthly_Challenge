@@ -8,17 +8,10 @@ public:
         };
         int n=intervals.size();
         sort(intervals.begin(),intervals.end(),cmp);
-        int cnt=0;
-        int i=0;
-        while(i<n){
-            cnt++;
-            int start=intervals[i][0];
-            int end=intervals[i][1];
-            int j=i+1;
-            while(j<n && intervals[j][0]>=start && intervals[j][1]<=end){
-                j++;
-            }
-            i=j;
+        int cnt=n, end=intervals[0][1];
+        for(auto it=intervals.begin()+1;it!=intervals.end();it++){
+            if((*it)[1]<=end)cnt--;
+            else end=(*it)[1];
         }
         return cnt;
     }
