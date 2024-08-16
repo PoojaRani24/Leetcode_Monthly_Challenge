@@ -1,27 +1,15 @@
 class Solution {
 public:
-    void preprocessAvailability(vector<vector<int>>& slots,map<int,int>&m){
-        for(auto it:slots){
-            m[it[0]]++;
-            m[it[1]+1]--;
-        }
-    }
-
     vector<int> minAvailableDuration(vector<vector<int>>& slots1, vector<vector<int>>& slots2, int duration) {
-        std::ios::sync_with_stdio(false);
-        std::cin.tie(nullptr);
-        std::cout.tie(nullptr);
-        map<int,int>m;
-        preprocessAvailability(slots1,m);
-        preprocessAvailability(slots2,m);
-        int currentAvailabilityCnt=0, prevAvailabilityCnt=0,currentStartTime=-1,prevStartTime=-1;
-        for(auto it:m){
-            currentStartTime=it.first;
-            currentAvailabilityCnt+=it.second;
-            if(prevStartTime!=-1 && currentAvailabilityCnt<2 && prevAvailabilityCnt==2 && currentStartTime-prevStartTime-1>=duration)
-                return {prevStartTime, prevStartTime+duration};
-            prevStartTime=currentStartTime;
-            prevAvailabilityCnt=currentAvailabilityCnt;
+        sort(slots1.begin(),slots1.end());
+        sort(slots2.begin(),slots2.end());
+        int i=0,j=0,n=slots1.size(),m=slots2.size();
+        while(i<n && j<m){
+            int start=max(slots1[i][0],slots2[j][0]);
+            int end=min(slots1[i][1],slots2[j][1]);
+            if(start<end && (end-start)>=duration)return {start, start+duration};
+            if(slots1[i][1]<slots2[j][1])i++;
+            else j++;
         }
         return {};
     }
