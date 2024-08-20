@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
+        std::ios::sync_with_stdio(false);
+        std::cin.tie(nullptr);
+        std::cout.tie(nullptr);
         sort(intervals.begin(), intervals.end());
         vector<vector<int>>ans;
         for(int i=0;i<intervals.size();i++){
