@@ -40,6 +40,7 @@ Solution to Leetcode June Challenge
 | ------- |
 | [0039-combination-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0040-combination-sum-ii) |
+| [0056-merge-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0057-insert-interval) |
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
@@ -143,6 +144,7 @@ Solution to Leetcode June Challenge
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0056-merge-intervals) |
 | [0252-meeting-rooms](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0253-meeting-rooms-ii) |
 | [0354-russian-doll-envelopes](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0354-russian-doll-envelopes) |
