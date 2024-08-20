@@ -69,6 +69,7 @@ Solution to Leetcode June Challenge
 | [1200-remove-interval](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1200-remove-interval) |
 | [1222-remove-covered-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1222-remove-covered-intervals) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1983-maximum-population-year](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
@@ -156,6 +157,7 @@ Solution to Leetcode June Challenge
 | [1165-meeting-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1165-meeting-scheduler) |
 | [1222-remove-covered-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1222-remove-covered-intervals) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -166,6 +168,7 @@ Solution to Leetcode June Challenge
 | [0744-network-delay-time](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Matrix
 |  |
 | ------- |
@@ -221,6 +224,7 @@ Solution to Leetcode June Challenge
 | [0621-task-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Binary Indexed Tree
 |  |
 | ------- |
