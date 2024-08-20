@@ -71,6 +71,7 @@ Solution to Leetcode June Challenge
 | [1222-remove-covered-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1222-remove-covered-intervals) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1983-maximum-population-year](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
@@ -160,6 +161,7 @@ Solution to Leetcode June Challenge
 | [1222-remove-covered-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1222-remove-covered-intervals) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -227,6 +229,7 @@ Solution to Leetcode June Challenge
 | [0646-maximum-length-of-pair-chain](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -325,6 +328,7 @@ Solution to Leetcode June Challenge
 | [0253-meeting-rooms-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0253-meeting-rooms-ii) |
 | [0370-range-addition](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0370-range-addition) |
 | [0731-my-calendar-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0731-my-calendar-ii) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1983-maximum-population-year](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2385-count-positions-on-street-with-required-brightness](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2385-count-positions-on-street-with-required-brightness) |
