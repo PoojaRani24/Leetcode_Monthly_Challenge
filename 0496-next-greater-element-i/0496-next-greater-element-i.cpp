@@ -15,7 +15,7 @@ public:
             st.push(nums2[i]);
         }
         int n1=nums1.size();
-        for(int i=0;i<nums1.size();++i)
+        for(int i=0;i<nums1.size();i++)
             ans.push_back(m[nums1[i]]);
         return ans;
     }
