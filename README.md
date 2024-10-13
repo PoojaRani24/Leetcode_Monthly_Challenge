@@ -199,6 +199,7 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0496-next-greater-element-i) |
 | [0883-car-fleet](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0883-car-fleet) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -298,12 +299,14 @@ Solution to Leetcode June Challenge
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0346-moving-average-from-data-stream](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0346-moving-average-from-data-stream) |
 | [0715-range-module](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0715-range-module) |
 | [0731-my-calendar-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0731-my-calendar-ii) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0346-moving-average-from-data-stream](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0346-moving-average-from-data-stream) |
 | [2617-time-taken-to-cross-the-door](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2617-time-taken-to-cross-the-door) |
 ## Data Stream
