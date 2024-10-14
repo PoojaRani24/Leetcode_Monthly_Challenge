@@ -10,17 +10,17 @@ public:
 
 class Solution {
 public:
+    unordered_map<int,pair<int,vector<int>>>m;
     int getImportance(vector<Employee*> employees, int id) {
-        unordered_map<int,pair<int,vector<int>>>m;
         for(auto it: employees)
             m[it->id]={it->importance, it->subordinates};
-        return resolve(id,m);
+        return dfs(id);
     }
 
-    int resolve(int id, unordered_map<int,pair<int,vector<int>>>&m){
+    int dfs(int id){
        int val = m[id].first;
        for(auto it:m[id].second)
-            val+=resolve(it,m);
+            val+=dfs(it);
        return val;
     }
 };
