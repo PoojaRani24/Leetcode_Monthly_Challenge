@@ -11,6 +11,9 @@ public:
 class Solution {
 public:
     int getImportance(vector<Employee*> employees, int id) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
         unordered_map<int,pair<int,vector<int>>>m;
         for(auto it: employees)
             m[it->id]={it->importance, it->subordinates};
