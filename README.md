@@ -258,6 +258,7 @@ Solution to Leetcode June Challenge
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0224-basic-calculator) |
 | [0753-open-the-lock](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0753-open-the-lock) |
+| [2580-circular-sentence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2580-circular-sentence) |
 ## Trie
 |  |
 | ------- |
