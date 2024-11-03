@@ -204,6 +204,7 @@ Solution to Leetcode June Challenge
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0496-next-greater-element-i) |
@@ -221,6 +222,7 @@ Solution to Leetcode June Challenge
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -255,6 +257,7 @@ Solution to Leetcode June Challenge
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0224-basic-calculator) |
 | [0753-open-the-lock](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0753-open-the-lock) |
