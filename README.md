@@ -51,6 +51,7 @@ Solution to Leetcode June Challenge
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0346-moving-average-from-data-stream](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0346-moving-average-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0354-russian-doll-envelopes) |
+| [0360-sort-transformed-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0360-sort-transformed-array) |
 | [0368-largest-divisible-subset](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0368-largest-divisible-subset) |
 | [0370-range-addition](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0370-range-addition) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -85,6 +86,7 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0224-basic-calculator) |
+| [0360-sort-transformed-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0360-sort-transformed-array) |
 | [0368-largest-divisible-subset](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0368-largest-divisible-subset) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -158,6 +160,7 @@ Solution to Leetcode June Challenge
 | [0252-meeting-rooms](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0253-meeting-rooms-ii) |
 | [0354-russian-doll-envelopes](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0354-russian-doll-envelopes) |
+| [0360-sort-transformed-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0360-sort-transformed-array) |
 | [0368-largest-divisible-subset](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0435-non-overlapping-intervals) |
@@ -365,6 +368,7 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0253-meeting-rooms-ii) |
+| [0360-sort-transformed-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0360-sort-transformed-array) |
 | [1165-meeting-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1165-meeting-scheduler) |
 ## Divide and Conquer
 |  |
