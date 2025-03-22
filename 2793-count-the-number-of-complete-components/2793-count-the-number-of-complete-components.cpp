@@ -14,7 +14,6 @@ public:
                 nodeCnt=0;
                 edgeCnt=0;
                 dfs(i,adj,vis,nodeCnt,edgeCnt);
-                cout<<nodeCnt<<" "<<edgeCnt<<endl;
                 if(edgeCnt==((nodeCnt*(nodeCnt-1))))
                     cnt++;
             }
