@@ -108,6 +108,7 @@ Solution to Leetcode June Challenge
 | [1300-critical-connections-in-a-network](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1300-critical-connections-in-a-network) |
 | [1665-diameter-of-n-ary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1665-diameter-of-n-ary-tree) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
+| [2793-count-the-number-of-complete-components](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Solution to Leetcode June Challenge
 | [0803-cheapest-flights-within-k-stops](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
+| [2793-count-the-number-of-complete-components](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
@@ -137,6 +139,7 @@ Solution to Leetcode June Challenge
 | [1300-critical-connections-in-a-network](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1300-critical-connections-in-a-network) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
+| [2793-count-the-number-of-complete-components](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2793-count-the-number-of-complete-components) |
 ## Geometry
 |  |
 | ------- |
@@ -200,6 +203,7 @@ Solution to Leetcode June Challenge
 | ------- |
 | [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2793-count-the-number-of-complete-components](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2793-count-the-number-of-complete-components) |
 ## Linked List
 |  |
 | ------- |
