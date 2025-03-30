@@ -152,6 +152,7 @@ Solution to Leetcode June Challenge
 | [0621-task-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0621-task-scheduler) |
 | [0690-employee-importance](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0690-employee-importance) |
 | [0753-open-the-lock](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0753-open-the-lock) |
+| [0768-partition-labels](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0768-partition-labels) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -248,6 +249,7 @@ Solution to Leetcode June Challenge
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [0768-partition-labels](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0768-partition-labels) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -268,6 +270,7 @@ Solution to Leetcode June Challenge
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0224-basic-calculator) |
 | [0753-open-the-lock](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0753-open-the-lock) |
+| [0768-partition-labels](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0812-rotate-string) |
 | [2580-circular-sentence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2580-circular-sentence) |
 ## Trie
@@ -373,6 +376,7 @@ Solution to Leetcode June Challenge
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0253-meeting-rooms-ii) |
 | [0360-sort-transformed-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0360-sort-transformed-array) |
+| [0768-partition-labels](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0768-partition-labels) |
 | [1165-meeting-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1165-meeting-scheduler) |
 ## Divide and Conquer
 |  |
