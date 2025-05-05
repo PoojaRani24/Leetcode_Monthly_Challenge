@@ -244,6 +244,7 @@ Solution to Leetcode June Challenge
 | [0646-maximum-length-of-pair-chain](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0806-domino-and-tromino-tiling](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0806-domino-and-tromino-tiling) |
 ## Greedy
 |  |
 | ------- |
