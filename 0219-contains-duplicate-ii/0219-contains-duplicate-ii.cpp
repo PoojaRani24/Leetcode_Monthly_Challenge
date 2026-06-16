@@ -7,8 +7,8 @@ public:
         int n=nums.size();
         unordered_map<int,int>m;
         for(int i=0;i<n;i++){
-            if(m.find(nums[i])!=m.end()){
-                if(i-m[nums[i]] <= k)
+            auto it = m.find(nums[i]);
+            if(it!=m.end() && i-it->second<= k){
                     return true;
             }
             m[nums[i]] = i;
