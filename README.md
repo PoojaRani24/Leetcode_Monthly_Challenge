@@ -44,6 +44,7 @@ Solution to Leetcode June Challenge
 | [0057-insert-interval](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0057-insert-interval) |
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0252-meeting-rooms](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0252-meeting-rooms) |
@@ -232,6 +233,7 @@ Solution to Leetcode June Challenge
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0354-russian-doll-envelopes) |
@@ -375,6 +377,7 @@ Solution to Leetcode June Challenge
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0253-meeting-rooms-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0253-meeting-rooms-ii) |
 | [0370-range-addition](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0370-range-addition) |
 | [0731-my-calendar-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0731-my-calendar-ii) |
@@ -413,6 +416,7 @@ Solution to Leetcode June Challenge
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
