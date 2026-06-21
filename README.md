@@ -79,6 +79,7 @@ Solution to Leetcode June Challenge
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1833-maximum-ice-cream-bars](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1983-maximum-population-year](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -188,6 +189,7 @@ Solution to Leetcode June Challenge
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1833-maximum-ice-cream-bars](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Heap (Priority Queue)
 |  |
@@ -268,6 +270,7 @@ Solution to Leetcode June Challenge
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1833-maximum-ice-cream-bars](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Binary Indexed Tree
 |  |
@@ -419,4 +422,8 @@ Solution to Leetcode June Challenge
 | [0209-minimum-size-subarray-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0594-longest-harmonious-subsequence) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
