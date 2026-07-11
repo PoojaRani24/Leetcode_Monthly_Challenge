@@ -44,6 +44,7 @@ Solution to Leetcode June Challenge
 | [0057-insert-interval](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0057-insert-interval) |
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0219-contains-duplicate-ii) |
@@ -95,6 +96,7 @@ Solution to Leetcode June Challenge
 | ------- |
 | [0050-powx-n](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0224-basic-calculator) |
 | [0360-sort-transformed-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0360-sort-transformed-array) |
 | [0368-largest-divisible-subset](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0368-largest-divisible-subset) |
@@ -407,6 +409,7 @@ Solution to Leetcode June Challenge
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0189-rotate-array) |
 | [0253-meeting-rooms-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0253-meeting-rooms-ii) |
 | [0360-sort-transformed-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0360-sort-transformed-array) |
 | [0768-partition-labels](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0768-partition-labels) |
