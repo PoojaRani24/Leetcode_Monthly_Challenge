@@ -93,6 +93,7 @@ Solution to Leetcode June Challenge
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0224-basic-calculator) |
 | [0360-sort-transformed-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0360-sort-transformed-array) |
@@ -418,6 +419,7 @@ Solution to Leetcode June Challenge
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0224-basic-calculator) |
 ## String Matching
 |  |
