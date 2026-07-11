@@ -95,6 +95,7 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0224-basic-calculator) |
@@ -244,6 +245,7 @@ Solution to Leetcode June Challenge
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0300-longest-increasing-subsequence) |
