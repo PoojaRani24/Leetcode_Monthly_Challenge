@@ -81,6 +81,7 @@ Solution to Leetcode June Challenge
 | [1165-meeting-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1165-meeting-scheduler) |
 | [1200-remove-interval](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1200-remove-interval) |
 | [1222-remove-covered-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1222-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -178,6 +179,7 @@ Solution to Leetcode June Challenge
 | [0753-open-the-lock](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0768-partition-labels) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1331-rank-transform-of-an-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [3034-points-that-intersect-with-cars](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/3034-points-that-intersect-with-cars) |
@@ -201,6 +203,7 @@ Solution to Leetcode June Challenge
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1165-meeting-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1165-meeting-scheduler) |
 | [1222-remove-covered-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1222-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
