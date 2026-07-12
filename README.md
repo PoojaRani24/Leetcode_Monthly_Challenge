@@ -85,6 +85,7 @@ Solution to Leetcode June Challenge
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1833-maximum-ice-cream-bars](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1929-concatenation-of-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1929-concatenation-of-array) |
 | [1983-maximum-population-year](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -400,6 +401,7 @@ Solution to Leetcode June Challenge
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1929-concatenation-of-array) |
 | [2617-time-taken-to-cross-the-door](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2617-time-taken-to-cross-the-door) |
 ## Prefix Sum
 |  |
