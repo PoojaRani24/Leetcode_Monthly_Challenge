@@ -41,6 +41,7 @@ Solution to Leetcode June Challenge
 | [0004-median-of-two-sorted-arrays](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0040-combination-sum-ii) |
+| [0054-spiral-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0057-insert-interval) |
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
@@ -220,6 +221,7 @@ Solution to Leetcode June Challenge
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -401,6 +403,7 @@ Solution to Leetcode June Challenge
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1929-concatenation-of-array) |
 | [2617-time-taken-to-cross-the-door](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2617-time-taken-to-cross-the-door) |
 ## Prefix Sum
