@@ -38,6 +38,7 @@ Solution to Leetcode June Challenge
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0056-merge-intervals) |
@@ -247,6 +248,7 @@ Solution to Leetcode June Challenge
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0240-search-a-2d-matrix-ii) |
@@ -424,6 +426,7 @@ Solution to Leetcode June Challenge
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 ## Recursion
