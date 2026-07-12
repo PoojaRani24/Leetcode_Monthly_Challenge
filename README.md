@@ -74,6 +74,7 @@ Solution to Leetcode June Challenge
 | [0731-my-calendar-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0753-open-the-lock) |
+| [0875-koko-eating-bananas](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0883-car-fleet) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1165-meeting-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1165-meeting-scheduler) |
@@ -256,6 +257,7 @@ Solution to Leetcode June Challenge
 | [0354-russian-doll-envelopes](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0731-my-calendar-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0731-my-calendar-ii) |
+| [0875-koko-eating-bananas](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0875-koko-eating-bananas) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 ## Dynamic Programming
