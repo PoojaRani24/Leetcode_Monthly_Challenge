@@ -99,6 +99,7 @@ Solution to Leetcode June Challenge
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0070-climbing-stairs) |
@@ -169,6 +170,7 @@ Solution to Leetcode June Challenge
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0219-contains-duplicate-ii) |
@@ -311,6 +313,7 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0224-basic-calculator) |
