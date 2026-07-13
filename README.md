@@ -174,6 +174,7 @@ Solution to Leetcode June Challenge
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0621-task-scheduler) |
@@ -190,6 +191,7 @@ Solution to Leetcode June Challenge
 | ------- |
 | [0056-merge-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0253-meeting-rooms-ii) |
 | [0354-russian-doll-envelopes](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0354-russian-doll-envelopes) |
@@ -317,6 +319,7 @@ Solution to Leetcode June Challenge
 | [0032-longest-valid-parentheses](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0242-valid-anagram) |
 | [0753-open-the-lock](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0812-rotate-string) |
