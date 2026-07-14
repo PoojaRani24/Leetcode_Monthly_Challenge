@@ -106,6 +106,7 @@ Solution to Leetcode June Challenge
 | [0069-sqrtx](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0224-basic-calculator) |
 | [0360-sort-transformed-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0360-sort-transformed-array) |
 | [0368-largest-divisible-subset](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0368-largest-divisible-subset) |
@@ -175,6 +176,7 @@ Solution to Leetcode June Challenge
 | [0013-roman-to-integer](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0496-next-greater-element-i) |
@@ -440,6 +442,7 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0202-happy-number) |
 | [0253-meeting-rooms-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0360-sort-transformed-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0360-sort-transformed-array) |
