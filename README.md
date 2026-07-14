@@ -62,6 +62,7 @@ Solution to Leetcode June Challenge
 | [0368-largest-divisible-subset](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0368-largest-divisible-subset) |
 | [0370-range-addition](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0370-range-addition) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -272,6 +273,7 @@ Solution to Leetcode June Challenge
 | [0300-longest-increasing-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0731-my-calendar-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0875-koko-eating-bananas) |
@@ -287,6 +289,7 @@ Solution to Leetcode June Challenge
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
@@ -297,6 +300,7 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0253-meeting-rooms-ii) |
+| [0410-split-array-largest-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0621-task-scheduler) |
@@ -429,6 +433,7 @@ Solution to Leetcode June Challenge
 | [0209-minimum-size-subarray-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0253-meeting-rooms-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0253-meeting-rooms-ii) |
 | [0370-range-addition](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0370-range-addition) |
+| [0410-split-array-largest-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0410-split-array-largest-sum) |
 | [0731-my-calendar-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0731-my-calendar-ii) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1983-maximum-population-year](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1983-maximum-population-year) |
