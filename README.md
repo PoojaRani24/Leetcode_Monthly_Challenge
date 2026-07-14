@@ -65,6 +65,7 @@ Solution to Leetcode June Challenge
 | [0416-partition-equal-subset-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0485-max-consecutive-ones](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0496-next-greater-element-i) |
 | [0529-minesweeper](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0529-minesweeper) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
