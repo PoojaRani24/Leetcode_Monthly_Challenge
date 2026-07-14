@@ -100,6 +100,7 @@ Solution to Leetcode June Challenge
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2617-time-taken-to-cross-the-door](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2617-time-taken-to-cross-the-door) |
 | [3034-points-that-intersect-with-cars](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/3034-points-that-intersect-with-cars) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Solution to Leetcode June Challenge
 | [0368-largest-divisible-subset](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0368-largest-divisible-subset) |
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -296,6 +298,7 @@ Solution to Leetcode June Challenge
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0806-domino-and-tromino-tiling) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greedy
 |  |
 | ------- |
@@ -491,4 +494,8 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0287-find-the-duplicate-number) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
