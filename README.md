@@ -67,6 +67,7 @@ Solution to Leetcode June Challenge
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0496-next-greater-element-i) |
 | [0529-minesweeper](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0529-minesweeper) |
+| [0540-single-element-in-a-sorted-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
@@ -268,6 +269,7 @@ Solution to Leetcode June Challenge
 | [0300-longest-increasing-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0731-my-calendar-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0875-koko-eating-bananas) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
