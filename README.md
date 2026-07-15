@@ -116,6 +116,7 @@ Solution to Leetcode June Challenge
 | [2206-detonate-the-maximum-bombs](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2206-detonate-the-maximum-bombs) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -498,4 +499,5 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
