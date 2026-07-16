@@ -44,6 +44,7 @@ Solution to Leetcode June Challenge
 | [0054-spiral-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0078-subsets) |
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0189-rotate-array) |
@@ -359,6 +360,7 @@ Solution to Leetcode June Challenge
 | ------- |
 | [0039-combination-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0078-subsets) |
 | [0865-robot-room-cleaner](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0865-robot-room-cleaner) |
 ## Interactive
 |  |
@@ -494,6 +496,7 @@ Solution to Leetcode June Challenge
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
