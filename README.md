@@ -63,6 +63,7 @@ Solution to Leetcode June Challenge
 | [0368-largest-divisible-subset](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0368-largest-divisible-subset) |
 | [0370-range-addition](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0370-range-addition) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0399-evaluate-division](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0435-non-overlapping-intervals) |
@@ -126,6 +127,7 @@ Solution to Leetcode June Challenge
 | [0310-minimum-height-trees](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0529-minesweeper) |
 | [0617-merge-two-binary-trees](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -146,6 +148,7 @@ Solution to Leetcode June Challenge
 | [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0399-evaluate-division) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0529-minesweeper](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0529-minesweeper) |
 | [0617-merge-two-binary-trees](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0617-merge-two-binary-trees) |
@@ -336,6 +339,7 @@ Solution to Leetcode June Challenge
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0242-valid-anagram) |
+| [0399-evaluate-division](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0399-evaluate-division) |
 | [0753-open-the-lock](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0812-rotate-string) |
@@ -415,6 +419,7 @@ Solution to Leetcode June Challenge
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Monotonic Stack
@@ -503,4 +508,12 @@ Solution to Leetcode June Challenge
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0399-evaluate-division) |
+## Graph Theory
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
