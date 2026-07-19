@@ -4,7 +4,7 @@ class Disjoint{
         Disjoint(int n){
             parent.resize(n+1);
             rank.resize(n+1,0);
-            for(int i=1;i<=n;i++)
+            for(int i=0;i<n;i++)
                 parent[i]=i;
         }
 
@@ -38,17 +38,16 @@ class Disjoint{
 class Solution {
 public:
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int r=isConnected.size();
-        int c=isConnected[0].size();
-        Disjoint ds(r+1);
-        for(int i=0;i<r;i++){
-            for(int j=0;j<c;j++){
+        int n=isConnected.size();
+        Disjoint ds(n+1);
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<n;j++){
                 if(isConnected[i][j]==1){
                     ds.UnionByRank(i,j);}
             }
         }
         int cnt=0;
-        for(int i=0;i<r;i++){
+        for(int i=0;i<n;i++){
                 if(ds.findUParent(i)==i){
                     cnt++;}
             }
