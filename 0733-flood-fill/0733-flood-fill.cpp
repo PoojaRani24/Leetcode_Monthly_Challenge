@@ -8,20 +8,18 @@ public:
             return image;
         nr = image.size();
         nc = image[0].size();
-        vector<vector<int>>vis(nr, vector<int>(nc,0));
-        dfs(image, sr, sc, color, image[sr][sc], vis);
+        dfs(image, sr, sc, color, image[sr][sc]);
         return image;
     }
 
-    void dfs(vector<vector<int>>& image, int sr, int sc, int&newColor, int oldColor, vector<vector<int>>& vis){
-        vis[sr][sc]=1;
+    void dfs(vector<vector<int>>& image, int sr, int sc, int newColor, int oldColor){
         image[sr][sc] = newColor;
         for(int i=0;i<4;i++){
             int r = sr+dx[i];
             int c = sc+dy[i];
-            if(r<0 || c<0 || r>=nr || c>=nc || vis[r][c] || image[r][c]!=oldColor)
+            if(r<0 || c<0 || r>=nr || c>=nc || image[r][c]!=oldColor)
                 continue;
-            dfs(image, r, c, newColor, oldColor, vis);
+            dfs(image, r, c, newColor, oldColor);
         }
     }
 };
