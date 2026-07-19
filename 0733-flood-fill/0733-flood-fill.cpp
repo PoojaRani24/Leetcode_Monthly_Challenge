@@ -1,34 +1,27 @@
 class Solution {
 public:
-    int dx[4]={-1,0,1,0};
-    int dy[4]={0,1,0,-1};
+    int dx[4] = {-1,0,1,0};
+    int dy[4] = {0,-1,0,1};
+    int nr=0, nc=0;
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        int originalColour = image[sr][sc];
-        int n=image.size();
-        if(n==0)
+        if (color == image[sr][sc])
             return image;
-        int m=image[0].size();
-        queue<pair<int,int>>q;
-        vector<vector<int>>vis(n, vector<int>(m,0));
-        q.push({sr,sc});
-        while(!q.empty()){
-            int sz=q.size();
-            while(sz--){
-                pair<int,int> currentCell=q.front();
-                q.pop();
-                int currentX=currentCell.first;
-                int currentY=currentCell.second;
-                vis[currentX][currentY]=1;
-                image[currentX][currentY]=color;
-                for(int i=0;i<4;i++){
-                    int newX=currentX+dx[i];
-                    int newY=currentY+dy[i];
-                    if (newX>=0 && newY>=0 && newX<n && newY<m && vis[newX][newY]==0 && image[newX][newY]==originalColour){
-                        q.push({newX, newY});
-                    }
-                }
-            }
-        }
+        nr = image.size();
+        nc = image[0].size();
+        vector<vector<int>>vis(nr, vector<int>(nc,0));
+        dfs(image, sr, sc, color, image[sr][sc], vis);
         return image;
-    };
+    }
+
+    void dfs(vector<vector<int>>& image, int sr, int sc, int&newColor, int oldColor, vector<vector<int>>& vis){
+        vis[sr][sc]=1;
+        image[sr][sc] = newColor;
+        for(int i=0;i<4;i++){
+            int r = sr+dx[i];
+            int c = sc+dy[i];
+            if(r<0 || c<0 || r>=nr || c>=nc || vis[r][c] || image[r][c]!=oldColor)
+                continue;
+            dfs(image, r, c, newColor, oldColor, vis);
+        }
+    }
 };
