@@ -129,6 +129,7 @@ Solution to Leetcode June Challenge
 | [0332-reconstruct-itinerary](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0529-minesweeper) |
+| [0547-number-of-provinces](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0690-employee-importance) |
@@ -151,6 +152,7 @@ Solution to Leetcode June Challenge
 | [0399-evaluate-division](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0399-evaluate-division) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0529-minesweeper](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0529-minesweeper) |
+| [0547-number-of-provinces](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -512,8 +514,10 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
