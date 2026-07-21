@@ -134,6 +134,7 @@ Solution to Leetcode June Challenge
 | [0547-number-of-provinces](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0744-network-delay-time) |
@@ -159,6 +160,7 @@ Solution to Leetcode June Challenge
 | [0617-merge-two-binary-trees](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0684-redundant-connection](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0744-network-delay-time) |
@@ -519,9 +521,11 @@ Solution to Leetcode June Challenge
 | ------- |
 | [0399-evaluate-division](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
