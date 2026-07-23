@@ -6,7 +6,7 @@ public:
         vector<int>vispeople(n,0);
         for(int i=n-1;i>=0;i--){
             int ans=0;
-            while(!st.empty() && st.top()<=heights[i]){
+            while(!st.empty() && st.top()<heights[i]){
                 st.pop();
                 ans++;
             }
