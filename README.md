@@ -96,6 +96,7 @@ Solution to Leetcode June Challenge
 | [1833-maximum-ice-cream-bars](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1929-concatenation-of-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1983-maximum-population-year](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -281,6 +282,7 @@ Solution to Leetcode June Challenge
 | [0232-implement-queue-using-stacks](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0496-next-greater-element-i) |
 | [0883-car-fleet](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0883-car-fleet) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Binary Search
 |  |
@@ -442,6 +444,7 @@ Solution to Leetcode June Challenge
 | ------- |
 | [0496-next-greater-element-i](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0496-next-greater-element-i) |
 | [0883-car-fleet](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0883-car-fleet) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Ordered Set
 |  |
 | ------- |
