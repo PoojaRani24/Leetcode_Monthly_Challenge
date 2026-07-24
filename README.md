@@ -87,6 +87,7 @@ Solution to Leetcode June Challenge
 | [0875-koko-eating-bananas](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0883-car-fleet) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [1052-grumpy-bookstore-owner](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1052-grumpy-bookstore-owner) |
 | [1165-meeting-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1165-meeting-scheduler) |
 | [1200-remove-interval](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1200-remove-interval) |
 | [1222-remove-covered-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1222-remove-covered-intervals) |
@@ -514,6 +515,7 @@ Solution to Leetcode June Challenge
 | [0219-contains-duplicate-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0643-maximum-average-subarray-i) |
+| [1052-grumpy-bookstore-owner](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting Sort
