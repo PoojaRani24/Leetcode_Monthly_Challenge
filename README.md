@@ -76,6 +76,7 @@ Solution to Leetcode June Challenge
 | [0540-single-element-in-a-sorted-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -510,6 +511,7 @@ Solution to Leetcode June Challenge
 | [0209-minimum-size-subarray-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0643-maximum-average-subarray-i) |
 ## Counting Sort
 |  |
 | ------- |
