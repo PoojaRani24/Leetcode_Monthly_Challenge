@@ -91,6 +91,7 @@ Solution to Leetcode June Challenge
 | [1200-remove-interval](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1200-remove-interval) |
 | [1222-remove-covered-intervals](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1222-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -513,6 +514,7 @@ Solution to Leetcode June Challenge
 | [0219-contains-duplicate-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting Sort
 |  |
