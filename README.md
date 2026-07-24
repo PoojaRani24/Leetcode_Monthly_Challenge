@@ -359,6 +359,7 @@ Solution to Leetcode June Challenge
 | [0753-open-the-lock](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0812-rotate-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2580-circular-sentence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2580-circular-sentence) |
 ## Trie
 |  |
@@ -512,6 +513,7 @@ Solution to Leetcode June Challenge
 | [0219-contains-duplicate-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting Sort
 |  |
 | ------- |
