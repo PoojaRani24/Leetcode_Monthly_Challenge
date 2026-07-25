@@ -360,6 +360,7 @@ Solution to Leetcode June Challenge
 | [0008-string-to-integer-atoi](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0242-valid-anagram) |
@@ -488,6 +489,7 @@ Solution to Leetcode June Challenge
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0202-happy-number) |
 | [0253-meeting-rooms-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0253-meeting-rooms-ii) |
