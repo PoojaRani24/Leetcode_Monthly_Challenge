@@ -46,6 +46,7 @@ Solution to Leetcode June Challenge
 | [0057-insert-interval](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0078-subsets) |
 | [0139-word-break](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0139-word-break) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0200-number-of-islands) |
@@ -296,6 +297,7 @@ Solution to Leetcode June Challenge
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0287-find-the-duplicate-number) |
@@ -490,6 +492,7 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0202-happy-number) |
 | [0253-meeting-rooms-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0253-meeting-rooms-ii) |
