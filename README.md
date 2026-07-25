@@ -39,6 +39,7 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0054-spiral-matrix) |
@@ -492,6 +493,7 @@ Solution to Leetcode June Challenge
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0189-rotate-array) |
