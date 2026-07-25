@@ -81,6 +81,7 @@ Solution to Leetcode June Challenge
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0690-employee-importance](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0690-employee-importance) |
+| [0713-subarray-product-less-than-k](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0753-open-the-lock) |
@@ -300,6 +301,7 @@ Solution to Leetcode June Challenge
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0875-koko-eating-bananas) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -467,6 +469,7 @@ Solution to Leetcode June Challenge
 | [0253-meeting-rooms-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0253-meeting-rooms-ii) |
 | [0370-range-addition](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0370-range-addition) |
 | [0410-split-array-largest-sum](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0410-split-array-largest-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0731-my-calendar-ii) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1983-maximum-population-year](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1983-maximum-population-year) |
@@ -515,6 +518,7 @@ Solution to Leetcode June Challenge
 | [0219-contains-duplicate-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0713-subarray-product-less-than-k) |
 | [1052-grumpy-bookstore-owner](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
