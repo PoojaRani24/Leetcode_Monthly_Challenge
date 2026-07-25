@@ -56,6 +56,7 @@ Solution to Leetcode June Challenge
 | [0240-search-a-2d-matrix-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0252-meeting-rooms](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0253-meeting-rooms-ii) |
+| [0283-move-zeroes](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -496,6 +497,7 @@ Solution to Leetcode June Challenge
 | [0189-rotate-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0202-happy-number) |
 | [0253-meeting-rooms-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0253-meeting-rooms-ii) |
+| [0283-move-zeroes](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0344-reverse-string) |
