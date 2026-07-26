@@ -291,6 +291,7 @@ Solution to Leetcode June Challenge
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0496-next-greater-element-i) |
 | [0883-car-fleet](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0883-car-fleet) |
@@ -436,6 +437,7 @@ Solution to Leetcode June Challenge
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0295-find-median-from-data-stream) |
 | [0346-moving-average-from-data-stream](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0346-moving-average-from-data-stream) |
@@ -444,6 +446,7 @@ Solution to Leetcode June Challenge
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0346-moving-average-from-data-stream](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0346-moving-average-from-data-stream) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
