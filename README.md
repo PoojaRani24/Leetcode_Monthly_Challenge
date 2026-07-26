@@ -443,12 +443,14 @@ Solution to Leetcode June Challenge
 | [0346-moving-average-from-data-stream](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0346-moving-average-from-data-stream) |
 | [0715-range-module](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0715-range-module) |
 | [0731-my-calendar-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0731-my-calendar-ii) |
+| [0933-number-of-recent-calls](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0346-moving-average-from-data-stream](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0346-moving-average-from-data-stream) |
+| [0933-number-of-recent-calls](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0933-number-of-recent-calls) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2617-time-taken-to-cross-the-door](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2617-time-taken-to-cross-the-door) |
 ## Data Stream
@@ -456,6 +458,7 @@ Solution to Leetcode June Challenge
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0295-find-median-from-data-stream) |
 | [0346-moving-average-from-data-stream](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0346-moving-average-from-data-stream) |
+| [0933-number-of-recent-calls](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0933-number-of-recent-calls) |
 ## Shortest Path
 |  |
 | ------- |
