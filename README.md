@@ -288,6 +288,7 @@ Solution to Leetcode June Challenge
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0206-reverse-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
@@ -532,6 +533,7 @@ Solution to Leetcode June Challenge
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0224-basic-calculator) |
 ## String Matching
 |  |
