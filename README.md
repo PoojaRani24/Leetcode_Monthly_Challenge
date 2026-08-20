@@ -288,6 +288,7 @@ Solution to Leetcode June Challenge
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0206-reverse-linked-list) |
@@ -511,6 +512,7 @@ Solution to Leetcode June Challenge
 | ------- |
 | [0011-container-with-most-water](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0189-rotate-array) |
