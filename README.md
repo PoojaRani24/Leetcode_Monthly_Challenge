@@ -288,6 +288,7 @@ Solution to Leetcode June Challenge
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0203-remove-linked-list-elements) |
@@ -536,6 +537,7 @@ Solution to Leetcode June Challenge
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PoojaRani24/Leetcode_Monthly_Challenge/tree/master/0206-reverse-linked-list) |
