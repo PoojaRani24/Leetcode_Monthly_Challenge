@@ -1,5 +1,54 @@
-# Leetcode_June_Challenge
-Solution to Leetcode June Challenge
+# 🧠 DSA Interview Prep
+
+<p align="center">
+  <i>Learning patterns. Solving problems. Getting better every day.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problems-LeetCode-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Interview%20Prep-purple?style=flat-square" />
+</p>
+
+---
+
+## ✦ About
+
+A collection of **Data Structures & Algorithms** problems solved in
+**C++** as part of my technical interview preparation.
+
+The goal isn't just to solve problems, but to understand the underlying
+**patterns**, choose efficient approaches, and write clean solutions.
+
+---
+## 📚 Topics
+
+| Topic | Patterns & Concepts |
+|---|---|
+| 🔹 Arrays & Strings | Traversal, Prefix Sum, Hashing |
+| 🔹 Two Pointers | Pair Problems, Partitioning |
+| 🔹 Sliding Window | Subarrays, Substrings |
+| 🔹 Linked Lists | Fast & Slow Pointers, Manipulation |
+| 🔹 Stack & Queue | Monotonic Stack, BFS |
+| 🔹 Binary Search | Search Space Reduction |
+| 🔹 Trees | DFS, BFS, Recursion |
+| 🔹 Heaps | Top-K, Priority Queue |
+| 🔹 Graphs | BFS, DFS, Shortest Paths |
+| 🔹 Backtracking | Permutations, Combinations |
+| 🔹 Dynamic Programming | 1D & 2D DP, Optimization |
+| 🔹 Greedy | Local → Global Optimization |
+| 🔹 Intervals | Merging, Scheduling |
+| 🔹 Bit Manipulation | Binary Operations & Tricks |
+
+---
+
+What I focus on
+<br>⏱️ Time Complexity
+<br>💾 Space Complexity
+<br>🧪 Edge Cases
+<br>✨ Clean & readable code
+<br>🧠 Pattern recognition
+
 
 
 # Hash Table
